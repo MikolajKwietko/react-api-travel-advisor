@@ -1,12 +1,21 @@
-<<<<<<< HEAD
-Travel Advisor app
+# Travel Advisor Maps
 
 App using Travel Advisor API and Google Maps API.
-Find restaurants, hotels or attractions near your location. See their ratings, ranking position and more using app.
-=======
-### Travel Advisor app
+Find restaurants, hotels or attractions near your location.
+See their ratings, ranking position, number of reviews, prices, certificates, tags, website and phone number.
+You can filter them by ratings.
 
-App using Travel Advisor API and Google Maps API.
-Find restaurants, hotels or attractions near your location. See their ratings, ranking position and more using app.
 
->>>>>>> cce7f0376a404e0400b3ed7639ad95660a3d5715
+## How to run
+
+1. Open terminal
+2. Go to Travel Advisor Maps main directory
+3. Run npm start command
+4. App should open in new browser window on http://localhost:8080
+
+## Used in project
+
+- React 17
+- Material-ui
+- Google Maps API
+- Travel Advisor API
