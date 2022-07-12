@@ -9,9 +9,10 @@ You can filter them by ratings.
 ## How to run
 
 1. Open terminal
-2. Go to Travel Advisor Maps main directory
-3. Run npm start command
-4. App should open in new browser window on http://localhost:8080
+2. Change directory to Travel Advisor Maps main directory
+3. Run npm install command
+4. Run npm start command
+5. App should open in new browser window on http://localhost:8080
 
 ## Used in project
 
